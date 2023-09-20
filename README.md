@@ -50,3 +50,4 @@
 <h2 align="center">My GitHub Status</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rui775&theme=elegant&mode=weekly&card_width=1200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rui775)](https://git.io/streak-stats)
