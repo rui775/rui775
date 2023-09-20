@@ -48,5 +48,7 @@
     </a>
 </p>
 <h2 align="center">My GitHub Status</h2>
+<p align="center">
+    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rui775?cardType=level-alternate&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
+</p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rui775?cardType=level-alternate&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
