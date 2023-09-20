@@ -49,7 +49,9 @@
 </p>
 <h2 align="center">My GitHub Status</h2>
 <p align="center">
-    
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rui775?cardType=level-alternate&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
-</p>
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&preferLogin=false">    
+      <img align="center" alt="rui775's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rui775?cardType=level&theme=react&preferLogin=false" />
+  </a>
+
 
