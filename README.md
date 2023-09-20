@@ -49,4 +49,4 @@
 </p>
 <h2 align="center">My GitHub Status</h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rui775)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rui775?cardType=level-alternate&theme=react&preferLogin=false)](https://git.io/awesome-stats-card)
