@@ -52,9 +52,8 @@
 </p>
 <h2 align="center">My GitHub Status</h2>
 <p align="center">
-
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&preferLogin=false">    
-      <img align="center" alt="rui775's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rui775?cardType=level&theme=react&preferLogin=false" />
-  </a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=city-lights&preferLogin=true">    
+        <img  alt="rui775's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rui775?cardType=level&theme=city-lights&preferLogin=true" />  
+    </a>
 
 
