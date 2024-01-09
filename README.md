@@ -24,28 +24,28 @@
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-    </a>&nbsp&nbsp 
+    </a> 
     <a href="https://www.w3schools.com/js/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>&nbsp&nbsp 
+    </a>
     <a href="https://react.dev/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-    </a>&nbsp&nbsp 
+    </a> 
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>&nbsp&nbsp
     <a href="https://flask.palletsprojects.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
-    </a>&nbsp&nbsp
+    </a>
     <a href="https://www.linux.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" width="40" height="40"/> 
-    </a>&nbsp&nbsp
+    </a>
     <a href="https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/Remix-Design/RemixIcon/3c4f3ff316c8ebe1b8838c211ecaf8348d203049/icons/Development/terminal-box-fill.svg" alt="cli" width="40" height="40"/> 
-    </a>&nbsp&nbsp
+    </a>
     <a href="https://docs.github.com/en/get-started/quickstart/hello-world" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-    </a>&nbsp&nbsp
+    </a>
     <a href="https://slack.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> 
     </a>
