@@ -18,6 +18,9 @@
     </a>&nbsp&nbsp 
     <a href="https://getbootstrap.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+    </a>&nbsp&nbsp 
+    <a href="https://tailwindcss.com/" target="_blank"> 
+        <img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" alt="tailwindCSS" width="40" height="40"/>
     </a>&nbsp&nbsp
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
