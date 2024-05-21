@@ -18,7 +18,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" alt="php" width="40" height="40" title="PHP"/> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react" width="40" height="40" title="ReactJS"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react" width="40" height="40" title="ReactJS"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="30" height="30" title="Jest"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" title="NextJS"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flask/flask-original.svg" alt="flask" width="40" height="40" title="Flask"/> 
